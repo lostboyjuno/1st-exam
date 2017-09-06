@@ -1,0 +1,18 @@
+<html>
+<body>
+<table align="center" border="1" width="800px" height="400px">
+<tr>
+<td colspan="2" align="center"><a href="http://www.rvmonline.net/ndrvmcc/"><h1>NDRVMCC</h1></a></td>
+</tr>
+<tr>
+<td width="400px"><img src="rvm2.jpg" width="400px"/></td>
+<td><center><p>11-St. Anthony</p>
+	       <marquee><p>Motto: Time is gold.</p>
+
+</marquee>
+</td>
+</tr>
+<th align="center" colspan="2"><marquee direction="up"><center><h1><font color="red" colspan="2">Juno Xandree Gomez</marquee</th>
+</table>
+</body>
+</html>
